@@ -12,7 +12,7 @@ public class SpringitApplication {
 	
 	@RequestMapping("/")
 	String home() {
-		return ("Hello Fakhri, This is spring Boot app");
+		return ("Hello Fakhri kharrat how are you , This is spring Boot app ");
 	}
 	
 	
